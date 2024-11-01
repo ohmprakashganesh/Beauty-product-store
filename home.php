@@ -7,6 +7,7 @@
         height:280px !important;
     }
 </style>
+<!-- hell guys -->
 <?php 
 $brands = isset($_GET['b']) ? json_decode(urldecode($_GET['b'])) : array();
 ?>
